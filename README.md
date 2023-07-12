@@ -14,14 +14,14 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ### Screenshot
 
 ![desktop view](./design-end/desktop-jpeg.jpg)
-<!-- ![burger view](./design-end/burger_nav-mobile.png)
-![responsive view](./design-end/responsive%20final.mp4) -->
+![burger view](./design-end/burger_nav-mobile.png)
+![responsive view](./design-end/responsive%20final.mp4)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Aanu-TT/sunnyside-agency-landing-page.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
