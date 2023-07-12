@@ -281,7 +281,7 @@ background-size: cover;
     margin-bottom: 38px;
     color: var(--Dark-grayish-blue);
 }
-.row-text>h5{
+.row-text>h4{
     font:  16px var(--serif); 
 }
 .row-text>h6{
