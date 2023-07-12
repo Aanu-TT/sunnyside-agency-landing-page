@@ -13,9 +13,9 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Screenshot
 
-![](./design-end/desktop-view.png)
-![](./design-end/mobile-view.png)
-![](./design-end/burger_nav-mobile.png)
+![desktop view](./design-end/desktop-view.png)
+![mobile view](./design-end/mob-view.jpg)
+![burger view](./design-end/burger_nav-mobile.png)
 
 
 
@@ -56,5 +56,5 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/AanuTT)
+- Frontend Mentor - [@Aanu-TT](https://www.frontendmentor.io/profile/Aanu-TT)
+- Twitter - [@aanu_tt](https://www.twitter.com/AanuTT)
