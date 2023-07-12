@@ -284,7 +284,7 @@ background-size: cover;
 .row-text>h4{
     font:  16px var(--serif); 
 }
-.row-text>h6{
+.row-text>h5{
     color: var(--Grayish-blue);
     font-size: 12px;
 }
