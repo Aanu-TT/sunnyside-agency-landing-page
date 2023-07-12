@@ -13,9 +13,9 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Screenshot
 
-![desktop view](./design-end/desktop-view.png)
-![mobile view](./design-end/mob-view.jpg)
-![burger view](./design-end/burger_nav-mobile.png)
+![desktop view](./design-end/desktop-jpeg.jpg)
+<!-- ![burger view](./design-end/burger_nav-mobile.png)
+![responsive view](./design-end/responsive%20final.mp4) -->
 
 
 
