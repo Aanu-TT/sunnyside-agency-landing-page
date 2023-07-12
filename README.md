@@ -15,16 +15,14 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ![desktop view](./design-end/desktop-jpeg.jpg)
 ![burger view](./design-end/burger_nav-mobile.png)
-![responsive view](./design-end/responsive%20final.mp4)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Aanu-TT/sunnyside-agency-landing-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Aanu-TT/sunnyside-agency-landing-page.git)
+- Live Site URL: [Live](https://your-live-site-url.com)
 
-## My process
 
 ### Built with
 
@@ -35,6 +33,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 
 ### What I learned
+
 
 ```css
 .proud-of-this-css {
