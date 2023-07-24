@@ -226,6 +226,7 @@ p{
     padding-top: 130px;
 }
 .testimonial-heading{
+    text-transform: uppercase;
    font-family: var(--serif);
    color: var(--Grayish-blue);
 }
